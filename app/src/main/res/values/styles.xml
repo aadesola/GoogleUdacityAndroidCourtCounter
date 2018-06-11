@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Primary color of the App (background color)-->
+        <item name="android:colorPrimary" tools:ignore="NewApi">#FF9800</item>
+        <!--  background color for buttons in the app -->
+        <item name="android:colorButtonNormal" tools:ignore="NewApi">#ff9800</item>
+    </style>
+
+</resources>
